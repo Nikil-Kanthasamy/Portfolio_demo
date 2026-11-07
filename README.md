@@ -2,6 +2,10 @@
 
 A responsive, static personal dashboard based on the LinkedIn profile information supplied.
 
+## Live portfolio
+
+**https://nikil-portfolio-demo.vercel.app**
+
 ## What's included
 - Career overview and current role
 - Experience timeline (Intern → Trainee → Business Analyst)
